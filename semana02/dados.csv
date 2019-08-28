@@ -1,2 +1,12 @@
 Nome,cor_olhos,altura_cm,cidade_nasc,estado_nasc,estado_civil,filhos,pet
 Gabriel,verdes,173,Itu,SP,casado,0,1
+Silvio,castanho,177,joinville,SC,casado,0,0
+Kauan,castanho,180,joinville,SC,Solteiro,0,0
+Alice,castanhos,173,Canoinhas,SC,Solteiro,0,1
+Mateus,castanhos,175,Criciúma,SC,casado,0,1
+Tiago,Verde,1.76,São Paulo,SP,casado,0,0
+Rhoger,castanhos,1.79,joinville,SC,solteiro,0,
+Laura,verdes,"1,61",Porto Alegre,RS,Solteiro,0,2
+Guilherme,Castanhos,"""1.7""",SBS,SC,solteiro,0,0
+Thyago,Castanhos,1.72,joinville,sc,solteiro,0,1
+Arthur,Castanhos,"1,82",Joinville,SC,Solteiro,0,0
